@@ -1,4 +1,4 @@
-Helloworld p app
+smt_puttingdivsonscreen
 ====================
 
 One of the examples we provide with the toolkit probably the first you will try or copy to get started
